@@ -1,6 +1,6 @@
-# flutter_loop
+# flutter_loop Ryan Natanael
 
-A new Flutter project.
+Tugas Flutter Looping
 
 ## Getting Started
 
